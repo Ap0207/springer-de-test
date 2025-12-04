@@ -14,8 +14,8 @@ This project processes user referral data to identify successful referrals and d
 * Docker (or Podman-Docker on Fedora)
 
 ## How to Run
-This application is containerized for portability. Follow these steps to generate the report:
+This application is containerized for portability,to generate the report:
 
-### 1. Build the Docker Image
+### Build the Docker Image
 ```bash
 docker build -t de-project .
